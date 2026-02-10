@@ -56,7 +56,7 @@ Aqui você encontrará:
 ## 📫 Como me encontrar
 
 - 💼 LinkedIn: *(https://www.linkedin.com/in/carloseduardowestfal/)*
-- 📧 Email: *(carloswestfal07@gmail.com*
+- 📧 Email: *(carloswestfal07@gmail.com)*
 
 ---
 
