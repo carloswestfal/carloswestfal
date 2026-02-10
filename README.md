@@ -38,6 +38,12 @@ I work with web technologies, scripting, databases, and version control, focusin
 
 ---
 
+## 📊 GitHub Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default)
+
+---
+
 ## 📌 What You’ll Find Here
 
 This GitHub profile contains:
