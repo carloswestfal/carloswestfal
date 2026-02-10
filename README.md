@@ -38,15 +38,6 @@ I work with web technologies, scripting, databases, and version control, focusin
 
 ---
 
-## 📊 GitHub Top Languages
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carloswestfal&layout=compact&langs_count=8&theme=github_dark&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carloswestfal&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800)
-
-
----
-
 ## 📌 What You’ll Find Here
 
 This GitHub profile contains:
